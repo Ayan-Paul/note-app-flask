@@ -1,5 +1,4 @@
 Flask==2.2.5
-flask-smorest==0.42.1
 python-dotenv
 flask_pymongo
 passlib
